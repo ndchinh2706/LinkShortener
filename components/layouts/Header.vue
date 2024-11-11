@@ -37,7 +37,7 @@ const { title, github } = useAppConfig()
           :class="{ 'flex fixed': showMenu, 'hidden': !showMenu }"
           @touchmove.prevent
         >
-          <div
+          <div 
             class="flex-col w-full h-auto overflow-hidden rounded-lg bg-background md:overflow-visible md:rounded-none md:relative md:flex md:flex-row"
           >
             <a
@@ -64,7 +64,7 @@ const { title, github } = useAppConfig()
                 class="w-full px-6 py-2 mr-0 text-gray-700 cursor-pointer dark:text-gray-300 md:px-3 md:mr-2 lg:mr-3 md:w-auto"
                 href="/dashboard"
                 :title="`${title} Dashboard`"
-              >Dashboard</a>
+              >Đi uống bia</a>
     
               <span class="ml-1">
                 <SwitchTheme />

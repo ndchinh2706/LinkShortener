@@ -36,10 +36,10 @@ async function onSubmit(form) {
   <Card class="w-full max-w-sm">
     <CardHeader>
       <CardTitle class="text-2xl">
-        Login
+        Đi uống bia!
       </CardTitle>
       <CardDescription>
-        Enter your site token to login.
+        Đi uống bia à, đọc pass đi.
       </CardDescription>
     </CardHeader>
     <CardContent class="grid gap-4">

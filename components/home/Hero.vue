@@ -22,21 +22,21 @@ const { title, description, github } = useAppConfig()
         <HomeLink
           href="/dashboard"
           target="_blank"
-          title="Dashboard"
+          title="Đi uống bia"
           class="flex items-center justify-center gap-1"
           rel="noopener"
         >
           <AreaChart
             class="w-5 h-5"
           />
-          Dashboard
+          Đi uống bia
         </HomeLink>
       </div>
     </div>
     <div class="hidden py-6 md:block">
       <img
                 src="https://blog.dktcdn.net/files/mo-quan-bia-hoi.jpg"
-                :alt="title"
+                :alt="uongbeer"
                 class="w-[512px]"
               >
     </div>
