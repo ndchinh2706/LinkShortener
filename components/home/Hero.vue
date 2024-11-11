@@ -1,7 +1,6 @@
 <script setup>
 import { AreaChart } from 'lucide-vue-next'
 import { GitHubIcon } from 'vue3-simple-icons'
-import heroImg from '@/assets/images/biahoi.png?raw'
 
 const { title, description, github } = useAppConfig()
 </script>
