@@ -37,7 +37,7 @@ const { title, description, github } = useAppConfig()
     <div class="hidden py-6 md:block">
       <div
         class="w-[512px]"
-        v-html="heroImg"
+        src="https://blog.dktcdn.net/files/mo-quan-bia-hoi.jpg"
       />
     </div>
   </main>
