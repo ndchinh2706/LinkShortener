@@ -34,10 +34,11 @@ const { title, description, github } = useAppConfig()
       </div>
     </div>
     <div class="hidden py-6 md:block">
-      <div
-        class="w-[512px]"
-        src="https://blog.dktcdn.net/files/mo-quan-bia-hoi.jpg"
-      />
+      <img
+                src="/sink.png"
+                :alt="title"
+                class="w-[512px]"
+              >
     </div>
   </main>
 </template>
