@@ -57,7 +57,7 @@ async function onSubmit(form) {
           </AlertDescription>
         </Alert>
         <Button class="w-full">
-          Login
+          Chuẩn chưa bạn
         </Button>
       </AutoForm>
     </CardContent>
