@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  title: 'Đi uống bia đê',
+  title: 'uong.beer',
   email: '',
   github: '',
   twitter: '',
